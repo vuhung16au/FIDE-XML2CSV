@@ -80,3 +80,19 @@ SEX - sex of a player (M - male, F - female)
 - blitz_k:
 - birthday: Year of birth (FIDE may store players' full DoB internally)
 - flag: See `FLAG` above
+
+# Converted Data 
+
+https://drive.google.com/drive/folders/1X-D1Z9BhMRndCcNyX4FyorOv8MYv94th
+
+## Aus standard
+https://docs.google.com/spreadsheets/d/1JQ7qY7K7A17QOQtARM-b6opf3LZAljA35xVi31VCJGE/edit?gid=339730930#gid=339730930
+
+## Aus rapid
+https://docs.google.com/spreadsheets/d/1T9lf1stS16-W8jawHegBjsO3xBHIpMtFnb81-RCMNgs/edit?gid=1965181498#gid=1965181498
+
+## Aus blitz
+https://docs.google.com/spreadsheets/d/1tn0TOONOoy7oCzM-q1Z0CLsz8Uk4ITFrqVIakUrSVEQ/edit?gid=2139845551#gid=2139845551
+
+## Aus all data
+https://docs.google.com/spreadsheets/d/1r3JmkDkXvV1mfJb2_r-kDysrVX0JU9E_VYrtmzKTnNY/edit?gid=605640874#gid=605640874
