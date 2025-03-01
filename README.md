@@ -81,7 +81,7 @@ SEX - sex of a player (M - male, F - female)
 - birthday: Year of birth (FIDE may store players' full DoB internally)
 - flag: See `FLAG` above
 
-# Converted Data 
+# Converted Data (2025/03)
 
 https://drive.google.com/drive/folders/1X-D1Z9BhMRndCcNyX4FyorOv8MYv94th
 
