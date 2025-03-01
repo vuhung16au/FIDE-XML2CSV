@@ -1,7 +1,10 @@
 import csv
 import xml.etree.ElementTree as ET
 
-# 
+# Convert all XML files to CSV for all countries
+# Equivalent to running the following function xml_to_csv_country(xml_file, csv_file, country="ALL") for each file
+# with country set to "ALL"
+
 def xml_to_csv(xml_file, csv_file):
     tree = ET.parse(xml_file)
     root = tree.getroot()
